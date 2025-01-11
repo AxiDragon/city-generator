@@ -6,7 +6,7 @@ A geometry-nodes-based city generator for Blender 4.2.1 LTS! It'll probably also
 
 ## How to use
 
-- Ensure you have Blender 4.2.1 LTS or later installed - if you don't, you can install it the lates version of Blender [here](https://www.blender.org/download/)
+- Ensure you have Blender 4.2.1 LTS or later installed - if you don't, you can install it the latest version of Blender [here](https://www.blender.org/download/)
 - Download the latest City_Generator.blend from the [releases page](https://github.com/AxiDragon/city-generator/releases) and open it
 - In the bottom-left, you can modify the values to change the appearance of the city
 <img alt="Modifiers" title="Modifiers" width="250px" src="img/modifier.jpg"/>
